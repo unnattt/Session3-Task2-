@@ -149,8 +149,8 @@ public partial class @InputPlayer: IInputActionCollection2, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""4d2ed0e5-37f7-4b08-8c89-3a757558bc75"",
-                    ""path"": ""<Mouse>/leftButton"",
-                    ""interactions"": ""Press"",
+                    ""path"": ""<Mouse>/rightButton"",
+                    ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
                     ""action"": ""Rotater"",
